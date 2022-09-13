@@ -10,7 +10,7 @@ jobs:
     runs-on: macos-latest
     defaults:
       run:
-        working-directory: ./ios
+        working-directory: ./iosApp
 
     steps:
       - name: Checkout
